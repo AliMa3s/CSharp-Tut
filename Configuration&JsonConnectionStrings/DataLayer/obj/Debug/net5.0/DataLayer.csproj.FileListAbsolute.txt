@@ -1,0 +1,12 @@
+C:\Users\alima\source\repos\ConfigSolution\DataLayer\bin\Debug\net5.0\DataLayer.deps.json
+C:\Users\alima\source\repos\ConfigSolution\DataLayer\bin\Debug\net5.0\DataLayer.dll
+C:\Users\alima\source\repos\ConfigSolution\DataLayer\bin\Debug\net5.0\ref\DataLayer.dll
+C:\Users\alima\source\repos\ConfigSolution\DataLayer\bin\Debug\net5.0\DataLayer.pdb
+C:\Users\alima\source\repos\ConfigSolution\DataLayer\obj\Debug\net5.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\alima\source\repos\ConfigSolution\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alima\source\repos\ConfigSolution\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\ConfigSolution\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+C:\Users\alima\source\repos\ConfigSolution\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\ConfigSolution\DataLayer\obj\Debug\net5.0\DataLayer.dll
+C:\Users\alima\source\repos\ConfigSolution\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
+C:\Users\alima\source\repos\ConfigSolution\DataLayer\obj\Debug\net5.0\DataLayer.pdb
